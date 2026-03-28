@@ -14,10 +14,9 @@
 
 - 🔭 Currently building an **Agentic AI Health Management System**
 - 🌱 Currently learning **Next.js** & **LangChain**
-- 👯 Looking to collaborate on **Rabbit AI — Agentic LMS** (Open Source)
 - 💬 Ask me about **React, Express, JavaScript, MongoDB**
 - 📫 Reach me at **ruhelat3@gmail.com**
-- 🌐 Portfolio: [tushar-ruhela-portfolio.vercel.app](https://tushar-ruhela-portfolio.vercel.app)
+- 🌐 Portfolio: [tushar-ruhela.me](https://tushar-ruhel.me)
 
 ---
 
